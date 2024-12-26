@@ -1,0 +1,26 @@
+site_name: boegel's blog
+site_url: https://boegel.github.io/blog
+theme:
+  name: material
+  favicon: img/boegel.png
+  logo: img/boegel.png
+  palette:
+    scheme: slate
+    primary: light green
+    accent: lime
+  features:
+    - navigation.sections
+extra:
+  analytics:
+    provider: google
+    property: G-N8VB256W60
+plugins:
+  - blog:
+      blog_dir: .
+      categories_allowed:
+        - "Making Package Managers Cry"
+        - "Great Tech Talks"
+        - "My Talks"
+        - "TIL"
+      post_date_format: "EEE d MMM y"
+  - search
