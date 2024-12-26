@@ -1,5 +1,4 @@
 ---
-draft: true
 authors:
   - boegel
 date: 2024-12-26
