@@ -4,4 +4,20 @@
          <loc>https://boegel.github.io/blog/</loc>
          <lastmod>2024-12-26</lastmod>
     </url>
+    <url>
+         <loc>https://boegel.github.io/blog/2024/12/26/test/</loc>
+         <lastmod>2024-12-26</lastmod>
+    </url>
+    <url>
+         <loc>https://boegel.github.io/blog/archive/2024/</loc>
+         <lastmod>2024-12-26</lastmod>
+    </url>
+    <url>
+         <loc>https://boegel.github.io/blog/category/making-package-managers-cry/</loc>
+         <lastmod>2024-12-26</lastmod>
+    </url>
+    <url>
+         <loc>https://boegel.github.io/blog/category/great-tech-talks/</loc>
+         <lastmod>2024-12-26</lastmod>
+    </url>
 </urlset>
